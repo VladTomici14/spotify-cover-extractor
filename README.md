@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project 💁‍♂️
 
-The Spotify Album Cover Extractor is a Python script that allows you to retrieve album covers from Spotify and save them as image files. Whether you want to create a personal music library with album artwork or explore your favorite artists' visual styles, this script makes it easy to collect high-quality album covers from Spotify's extensive catalog.
+The Spotify Album Extractor is a Python script that allows you to retrieve album covers from Spotify and save them as image files. Whether you want to create a personal music library with album artwork or explore your favorite artists' visual styles, this script makes it easy to collect high-quality album covers from Spotify's extensive catalog.
 
 ![spotify-cover-extractor](assets/canvas.png)
 
