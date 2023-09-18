@@ -41,7 +41,7 @@ class CoverExtractor:
 
         album_cover = self.url2Image(cover_url)
 
-        cv2.imwrite(f"albums/{album_name} - {album_artist}.png", album_cover)
+        cv2.imwrite(f"covers/{album_name} - {album_artist}.png", album_cover)
 
 def main():
     link = input("enter the album link: ")
